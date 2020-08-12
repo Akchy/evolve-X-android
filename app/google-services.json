@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "454310536825",
+    "firebase_url": "https://evolve-x.firebaseio.com",
+    "project_id": "evolve-x",
+    "storage_bucket": "evolve-x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454310536825:android:c81f193829a98a8735d6a8",
+        "android_client_info": {
+          "package_name": "com.davish.bmicalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454310536825-jkjdlvbmfn9u6875d8mo0mtkmuk9hi3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBufwbo3HfHrJwyVYB0PVMFImQb7C5tkuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454310536825-jkjdlvbmfn9u6875d8mo0mtkmuk9hi3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
